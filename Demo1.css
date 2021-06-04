@@ -1,0 +1,56 @@
+body{
+     background-image: url('1.jpg');
+     background-repeat: no-repeat;
+     background-size: 1200px 550px;
+     
+    
+}
+
+h1{
+	
+	font-family: monospace;
+	text-align: center;
+	color: darkorange;
+}
+
+.card{
+	height: 300px;
+	width: 300px;
+	background-color: white;
+	margin-left: 50px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	margin-top: 60px;
+     box-shadow: 20px 20px 20px grey;
+
+
+}
+
+
+.form{
+	height: 20px;
+	width: 20px;
+	margin-left: 60px;
+	margin-top: 50px;
+}
+
+.button{
+	height: 30px;
+	width: 60px;
+	margin-left: 60px;
+	margin-top: 20px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	background-color:darkorange;
+	
+}
+
+.card:hover{
+	background-color: lightblue;
+	opacity: 0.7;
+}
+	
